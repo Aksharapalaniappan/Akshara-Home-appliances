@@ -1,0 +1,14 @@
+com\akshara\mart\model\CartItem.class
+com\akshara\mart\model\Product.class
+com\akshara\mart\repo\OrderRepo.class
+com\akshara\mart\repo\UserRepo.class
+com\akshara\mart\config\DataSeeder.class
+com\akshara\mart\model\User.class
+com\akshara\mart\model\Orders.class
+com\akshara\mart\config\WebConfig.class
+com\akshara\mart\model\OrderItem.class
+com\akshara\mart\AksharaMartApplication.class
+com\akshara\mart\repo\ProductRepo.class
+com\akshara\mart\config\AuthService.class
+com\akshara\mart\controller\ApiController.class
+com\akshara\mart\repo\CartRepo.class
